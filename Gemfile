@@ -11,17 +11,7 @@ source "https://rubygems.org"
 gem "jekyll", "~> 3.8.5"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
-# gem "minima", "~> 2.0"
-gem 'jekyll-theme-hydejack', '~> 8.4'
-gem 'jekyll-default-layout', '~> 0.1.4'
-gem 'jekyll-optional-front-matter', '~> 0.3.0'
-gem 'jekyll-paginate', '~> 1.1'
-gem 'jekyll-readme-index', '~> 0.2.0'
-gem 'jekyll-redirect-from', '~> 0.15.0'
-gem 'jekyll-relative-links', '~> 0.6.0'
-gem 'jekyll-seo-tag', '~> 2.6', '>= 2.6.1'
-gem 'jekyll-sitemap', '~> 1.3', '>= 1.3.1'
-gem 'jekyll-titles-from-headings', '~> 0.5.1'
+gem "minima", "~> 2.0"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
